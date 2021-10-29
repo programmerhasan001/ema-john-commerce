@@ -1,0 +1,36 @@
+.product-container{
+    display: flex;
+    margin-left: auto;
+    width: 90%;
+    border-bottom: 1px solid lightgray;
+    font-family: cursive;
+    box-sizing: border-box;
+}
+.product-details{
+    margin-left: 15px;
+}
+.product-heading{
+    color: rgb(12, 94, 114);
+}
+
+.product-info{
+    display: flex;
+}
+.addToCartBtn{
+    border: none;
+    background: #ff9900d0;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.features{
+    padding-left: 10px;
+    margin-left: 10px;
+    border-left: 1px solid lightgray;
+}
+
+/* star ratting style */
+.ratting-icon-color{
+    color: gold;
+}

@@ -1,0 +1,32 @@
+.site-logo{
+    text-align: center;
+}
+.site-logo img{
+    width: 20%;
+}
+
+/* nav style */
+li{
+    list-style: none;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+nav{
+    background: #000;
+    padding-left: 50px;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 15px;
+    display: block;
+    transition: all linear .3s;
+}
+a:hover{
+    background-color: #ff9900d0;
+    color: black;
+    font-weight: bold;
+}

@@ -1,0 +1,18 @@
+.shop-container{
+    display: flex;
+}
+.products{
+    width: 80%;
+    border-right: 1px solid lightgray;
+}
+.search-field{
+    background: #000;
+    text-align: center;
+    padding: 10px 0;
+}
+input{
+    padding: 3px 2px;
+    width: 70%;
+    font-size: 16px;
+    color: darkolivegreen;
+}
